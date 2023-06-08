@@ -1,0 +1,40 @@
+
+p{
+   color: gray;
+  font-style:italic;
+}
+#me{
+  background-color:#f5f5;
+  margin:6px,4px,6px,4px;
+  cursor:pointer;
+  border:8px solid black; 
+  outline:5px solid blue;
+  padding:25px;
+}
+form{ 
+    background-color:#fff;
+    width:40%;
+    cursor:progress;
+    border:5px solid blue;
+    border-style:dashed;
+    margin: auto;     
+    outline:4px solid black;
+    padding:25px; 
+    font-size:20px;
+    font-weight:bold;
+    
+  
+}
+div
+{
+  text-align:center;
+}
+ 
+button{
+ background-color:blue;
+  color:white;
+  border-radius:20px;
+  width:150px;
+    
+}
+ 
